@@ -1,0 +1,35 @@
+/* Glypha-Bold */
+@font-face {
+font-family: 'glypha_65bold';
+src: url('./fonts/glypha-bold.eot');
+src: url('./fonts/glypha-bold.eot?#iefix') format('embedded-opentype'), url('./fonts/glypha-bold.woff') format('woff'), url('./fonts/glypha-bold.ttf') format('truetype'), url('./fonts/glypha-bold.svg#glypha_65bold') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+/* ProximaNova-Regular */
+@font-face {
+font-family: 'Proxima Nova';
+src: url('./fonts/proximanova-regular.eot');
+src: url('./fonts/proximanova-regular.eot?#iefix') format('embedded-opentype'), url('./fonts/proximanova-regular.woff') format('woff'), url('./fonts/proximanova-regular.ttf') format('truetype'), url('./fonts/proximanova-regular.svg#Proxima Nova') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+/* ProximaNova-Italic */
+@font-face {
+font-family: 'Proxima Nova';
+src: url('./fonts/proximanova-regularit.eot');
+src: url('./fonts/proximanova-regularit.eot?#iefix') format('embedded-opentype'), url('./fonts/proximanova-regularit.woff') format('woff'), url('./fonts/proximanova-regularit.ttf') format('truetype'), url('./fonts/proximanova-regularit.svg#proxima_nova_rgitalic') format('svg');
+font-weight: normal;
+font-style: italic;
+}
+
+/* ProximaNova-Semibold */
+@font-face {
+font-family: 'Proxima Nova';
+src: url('./fonts/proximanova-semibold.eot');
+src: url('./fonts/proximanova-semibold.eot?#iefix') format('embedded-opentype'), url('./fonts/proximanova-semibold.woff') format('woff'), url('./fonts/proximanova-semibold.ttf') format('truetype'), url('./fonts/proximanova-semibold.svg#proxima_nova_ltbold') format('svg');
+font-weight: bold;
+font-style: normal;
+}
